@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekritsin
 - 👀 I’m interested in Machine Learning, Data Science and AI.
-- 🌱 I’m currently learning Microsoft Azure Machine Learning.
+- 🌱 I’m currently learning GraphQL.
 - 💞️ I’m looking to collaborate on healthcare fields.
 - 📫 How to reach me ekritsinioti@outlook.com
 
