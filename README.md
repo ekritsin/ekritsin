@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekritsin
-- 👀 I’m interested in Machine Learning, Data Science and AI.
-- 🌱 I’m currently learning Google Cloud BigQuery and VertexAI.
+- 👀 I’m interested in Data Engineering and Data Science.
+- 🌱 I’m currently learning Google Cloud BigQuery and Docker.
 - 💞️ I’m looking to collaborate on healthcare fields and not only.
 - 📫 How to reach me ekritsinioti@outlook.com
 
